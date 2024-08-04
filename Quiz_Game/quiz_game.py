@@ -1,3 +1,5 @@
+#Basic computer quiz game (level: Easy)
+#Author: Sahan Maram
 class quiz_game():
     def __init__(self):
         #adding a score/points for the player
